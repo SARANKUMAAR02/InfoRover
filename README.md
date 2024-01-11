@@ -2,15 +2,15 @@
 
 ## Overview
 
-WebCrawler is a command-line interface (CLI) tool developed using Node.js that performs crawling on internal and external links of a given webpage. The tool utilizes Puppeteer for webpage scraping and captures images of the webpages. Additionally, it stores the crawled links in an Excel file for easy reference and analysis.
+InfoRover is a command-line interface (CLI) tool developed using Node.js that performs crawling on internal and external links of a given webpage. The tool utilizes Puppeteer for webpage scraping and captures images of the webpages. Additionally, it stores the crawled links in an Excel file for easy reference and analysis.
 
 ## Features
 
-* __Link Crawling:__ WebCrawler recursively crawls both internal and external links on a specified webpage.
+* __Link Crawling:__ InfoRover recursively crawls both internal and external links on a specified webpage.
 
 * __Webpage Scraping:__ Utilizing Puppeteer, the tool extracts valuable information from the crawled webpages.
 
-* __Image Capture:__ WebCrawler captures screenshots of each webpage, providing visual insights into the content.
+* __Image Capture:__ InfoRover captures screenshots of each webpage, providing visual insights into the content.
 
 * __Excel Export:__ The crawled links are stored in an Excel file, making it convenient for further analysis and reporting.
 
@@ -25,7 +25,7 @@ Follow these instructions to set up and run the crawler on your local machine.
 ## Installation
 
 ```bash
-    git clone 
+    git clone https://github.com/SARANKUMAAR02/InfoRover.git
     cd InfoRover
     cd crawler
 
@@ -38,11 +38,13 @@ Follow these instructions to set up and run the crawler on your local machine.
 
 __I just crawled My College Website__
 
+
 https://github.com/SARANKUMAAR02/InfoRover/assets/111904560/e76a49b7-7bea-417b-b5a5-6f68e20cc2dc
+
 
 ## Acknowledgments
 
-Special thanks to the open-source community, Puppeteer, and Node.js for their valuable contributions to the development of this WebCrawler CLI tool.
+Special thanks to the open-source community, Puppeteer, and Node.js for their valuable contributions to the development of this InfoRover CLI tool.
 
 Happy Crawling! 🕷️🚀
 
